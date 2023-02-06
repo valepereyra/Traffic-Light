@@ -1,12 +1,4 @@
-
-/* 
-
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+body {
+    background-image: url("https://i.pinimg.com/736x/ae/d8/90/aed890222ae9db1cc219c32a38b5747c.jpg");
+    background-size: cover;
+}
